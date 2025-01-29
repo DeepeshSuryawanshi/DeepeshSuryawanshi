@@ -25,7 +25,7 @@ I am a passionate **Full Stack Developer** with a strong foundation in the **MER
 
 ### **⛵ GitHub Stats**
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=shekharsikku&theme=github-compact)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeepeshSuryawanshi&theme=github-compact)
 
 ---
 ## 📬 **Get In Touch**
